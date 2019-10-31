@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Loes van Dorp.", "Illustrator.", "Animator.", "Artist.", "Dutch living in Finland"],
+      strings: ["Loes van Dorp.", "an Illustrator.", "an Animator.", "an Artist.", "a Dutch living in Finland"],
       typeSpeed: 100,
       loop: true,
     });

@@ -443,6 +443,10 @@ nav ul li a {
   overflow: hidden;
   min-height: 260px;
 }
+.portfolio-thumbnail.portfolio-text {
+  background-color: #000;
+  color: #fff !important;
+}
 
 .portfolio-thumbnail img {
   max-width: 100%;
